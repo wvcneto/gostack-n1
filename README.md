@@ -2,10 +2,6 @@
   Challenge N1
 </h4>
 
-<p align="center">
-  Technologies
-</p>
-
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
